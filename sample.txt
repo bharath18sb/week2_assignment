@@ -1,0 +1,4 @@
+This is a sample text file used for testing the word counter program.
+It has multiple lines,
+and some words to count.
+Python makes file handling easy!
